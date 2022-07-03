@@ -13,9 +13,49 @@ h1.hero-heading {
   font-family: 'Tenali Ramakrishna', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   line-height: .7;
 }
+body {background-color: #b2e7e8;}
+ul a {text-decoration: none;
+color: #00173f;}
+.h{margin: auto;
+text-align: center;
+border-radius: 46px;
+background: #00b3ff;
+box-shadow: 13px 13px 26px #004866, -13px -13px 26px #00ffff;
+
+}
+
+.i{margin: auto;
+text-align: center;
+border-radius: 46px;
+background: #00b3ff;
+box-shadow: 13px 13px 26px #004866, -13px -13px 26px #00ffff;
+
+}
 
 
-h1.hero-heading:hover{font-size: 150px; color:skyblue;}
+.j{margin: auto;
+text-align: center;
+border-radius: 46px;
+background: #00b3ff;
+box-shadow: 13px 13px 26px #004866, -13px -13px 26px #00ffff;
+
+}
+
+
+
+.k{margin: auto;
+text-align: center;
+border-radius: 46px;
+background: #00b3ff;
+box-shadow: 13px 13px 26px #004866, -13px -13px 26px #00ffff;
+
+}
+
+h1.hero-heading:hover{font-size: 180px; color:skyblue; text-shadow: 1px 1px 20px whitesmoke;}
+h1.hero-heading{font-size: 170px; color:skyblue; text-shadow: 25px 15px 20px black;}
+
+
+
 
 h1.explore.hero-heading {
   max-width: none;
@@ -139,7 +179,7 @@ h6.mini-title-section {
   line-height: 1;
 }
 
-h6#tagline-hero-section {
+h6#tagline-hero-section {font-size: 60px; color:lightgoldenrodyellow; text-shadow: 25px 15px 20px black;
   margin-bottom: 0;
 }
 
